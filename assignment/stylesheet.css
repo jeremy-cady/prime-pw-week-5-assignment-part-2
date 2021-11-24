@@ -1,4 +1,9 @@
 .assignment {
     background-color: black;
     color: whitesmoke;
+    text-align: center;
+}
+
+.main {
+    background-color: lightgray;
 }
